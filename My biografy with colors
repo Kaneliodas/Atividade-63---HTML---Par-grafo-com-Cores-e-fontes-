@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Biografia Estilizada</title>
+    <style>
+        /* Estilos CSS para cada parágrafo */
+        .introducao {
+            color: #4169E1; 
+            font-family: 'Arial',Sans-Serif;
+        }
+
+        .interesses {
+            color: #008080; 
+            font-family: 'Courier New', monospace;
+        }
+
+        .planos-futuros {
+            color: #8B008B;
+            font-family: 'Georgia', serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha Biografia Estilizada</h1>
+
+    <!-- Parágrafo 1: Introdução -->
+    <p class="introducao">Opa bom dia, boa tarde e boa noite, eu sou sousa e eu moro em maranguape 
+        atualmente estou estudando desenvolvimento de sistemas.</p>
+
+    <!-- Parágrafo 2: Interesses e Hobbies -->
+    <p class="interesses">MInhas Atividades favoritas são: ler, jogar pokemon, treinar boxe, comer e dormir.</p>
+
+    <!-- Parágrafo 3: Planos Futuros -->
+    <p class="planos-futuros">Minhas principais metas pro futuro são ter estabilidade financeira, ser um programador senior
+    conseguir uma casa ou apartamento, viver uma vida tranquila e gostaria de um dia viajar para o Japao.</p>
+</html>
+</html>
